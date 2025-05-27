@@ -2,9 +2,9 @@
 This project demonstrates an end-to-end machine learning pipeline for emotion classification using text comments.
 
 ## Dataset
-The dataset used is **Emotion_classify_Data** csv dataset containing two columns:
+**Emotion_classify_Data** csv dataset containing two columns:
 - Comment: A string of text input.
-- Emotion: The emotion label associated with the comment (e.g., Anger, Fear, Joy).
+- Emotion: The emotion label associated with the comment (Anger, Fear, Joy).
 
 ## Project Workflow
 
