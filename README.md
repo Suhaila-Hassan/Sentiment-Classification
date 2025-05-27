@@ -28,14 +28,13 @@ Visualization: Matplotlib, Seaborn
   A. CountVectorizer
   B. TF-IDF Vectorizer
 
-### 4. Model
-#### Models Used
+### 4. Machine Learning Models
+#### Models Used:
 Two classification algorithms are trained and tested using both CountVectorizer and TF-IDF features:
 - Logistic Regression
 - Multinomial Naive Bayes
 
-#### Evaluation Metrics
-Each model is evaluated using:
+#### Evaluation Metrics:
 - Accuracy Score
 - Classification Report
 - Confusion Matrix
