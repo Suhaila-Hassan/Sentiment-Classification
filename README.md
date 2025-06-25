@@ -5,7 +5,6 @@ A comprehensive machine learning-powered emotion classification system that anal
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-latest-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 🌟 Features
 
