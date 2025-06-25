@@ -37,39 +37,6 @@ Input: "This situation makes me really angry and frustrated."
 Output: ANGER (92.1% confidence)
 ```
 
-## 🛠️ Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- pip package manager
-
-### Quick Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/emotion-classifier.git
-   cd emotion-classifier
-   ```
-
-2. **Create virtual environment** (recommended)
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download NLTK data** (if not auto-downloaded)
-   ```python
-   python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
-   ```
-
-### Requirements File
-Create a `requirements.txt` file.
-
 ## 📊 Model Performance
 
 Our emotion classification system was trained and evaluated on multiple algorithms:
@@ -87,7 +54,7 @@ Our emotion classification system was trained and evaluated on multiple algorith
 - **Feature Engineering**: Count-based vectorization
 - **Evaluation**: Comprehensive metrics including accuracy, precision, recall, and F1-score
 
-## Usage
+## 🎯 Usage
 
 ### Running the Web App
 
@@ -138,7 +105,7 @@ The system can classify the following emotions:
 - 😠 **Anger**
 - 😨 **Fear**
 
-## Visualization Features
+## 📈 Visualization Features
 
 ### Training Visualizations
 - Emotion distribution charts
@@ -152,7 +119,7 @@ The system can classify the following emotions:
 - Text statistics dashboard
 - Dynamic progress indicators
 
-## Deployment
+## 🚀 Deployment
 
 ### Local Deployment
 ```bash
